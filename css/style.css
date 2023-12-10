@@ -334,6 +334,7 @@ header {
 #colorlib-testimony,
 #colorlib-progress,
 #colorlib-contact,
+#colorlib-review,
 #colorlib-about {
   padding: 10em 0;
   clear: both;
@@ -346,6 +347,7 @@ header {
     #colorlib-testimony,
     #colorlib-progress,
     #colorlib-contact,
+    #colorlib-review,
     #colorlib-about {
       padding: 5em 0; } }
 
