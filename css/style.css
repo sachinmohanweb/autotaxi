@@ -431,7 +431,7 @@ header {
       font-size: 60px; } }
 
 .intro-heading {
-  margin-bottom: 3em; }
+  margin-bottom: 1em; }
   .intro-heading h2 {
     font-size: 34px;
     font-weight: 400;
@@ -670,8 +670,8 @@ header {
   -moz-flex-wrap: wrap;
   width: 100%; }
   .services-flex .one-third {
-    width: 55%;
-    padding: 3em 2em 3em 0; }
+    width: 50%;
+    padding: 3em 2em 0em 0; }
   .services-flex .one-forth {
     width: 45%; }
     .services-flex .one-forth .one-third, .services-flex .one-forth .one-forth {
